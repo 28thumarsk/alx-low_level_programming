@@ -1,5 +1,5 @@
 # Function pointers
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about function pointers in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX`**. It aims to learn about function pointers in **C language**.
 
 ## Files
 All of the following files are programs written in C:
