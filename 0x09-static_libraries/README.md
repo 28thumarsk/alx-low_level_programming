@@ -1,6 +1,6 @@
 # Static libraries
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about static libraries in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about static libraries in **C language**.
 
 ## Files
 All of the following files are scripts and programs written in C:
